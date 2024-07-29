@@ -20,10 +20,8 @@ It allows HR professionals and recruiters to track job applications, manage cand
 
 # Installation
 Prerequisites
-1. Node.js (>=14.x)
-2. MongoDB
-3. Docker (optional, for containerization)
-
+1. poppler library (link to download : https://github.com/oschwartz10612/poppler-windows)
+   
 # Screenshot
 ![image](https://github.com/user-attachments/assets/1ffa0adc-f874-4309-aa4e-f6563b7367a6)
 
